@@ -10,4 +10,4 @@ Cada subcarpeta en este repositorio contiene un proyecto web diferente. Los proy
 
 1. **Expanding Cards**
    - Un proyecto de tarjetas expansivas en formato flex usando solo HTML y CSS.
-   - [Ver el proyecto](https://gerardjalong.github.io/private/)
+   - [Ver el proyecto](https://gerardjalong.github.io/flex_entended/)
