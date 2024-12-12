@@ -12,5 +12,5 @@ Cada subcarpeta en este repositorio contiene un proyecto web diferente. Los proy
    - Un proyecto de tarjetas expansivas en formato flex usando solo HTML y CSS.
    - [Ver el proyecto](https://splendorous-hotteok-81d77e.netlify.app/)
 2. **Bento Grid**
-   - Un proyecto de bento box em formato grid usando HTML y CSS.
+   - Un proyecto de bento box en formato grid usando HTML y CSS, utilizando formato responsive para dispositivos móviles.
    - [Ver el proyecto](https://golden-biscotti-9728b4.netlify.app/)
