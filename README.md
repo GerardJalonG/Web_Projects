@@ -14,3 +14,6 @@ Cada subcarpeta en este repositorio contiene un proyecto web diferente. Los proy
 2. **Bento Grid**
    - Un proyecto de bento box en formato grid usando HTML y CSS, utilizando formato responsive para dispositivos móviles.
    - [Ver el proyecto](https://golden-biscotti-9728b4.netlify.app/)
+3. **Portfolio CV**
+   - Mi CV hecho de manera "portfolio" usando HTML y CSS, haciendolo responsive para distintos dispositivos.
+   - [Ver el proyecto](https://cozy-naiad-277c25.netlify.app/)
