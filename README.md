@@ -16,4 +16,4 @@ Cada subcarpeta en este repositorio contiene un proyecto web diferente. Los proy
    - [Ver el proyecto](https://golden-biscotti-9728b4.netlify.app/)
 3. **Portfolio CV**
    - Mi CV hecho de manera "portfolio" usando HTML y CSS, haciendolo responsive para distintos dispositivos.
-   - [Ver el proyecto](https://cozy-naiad-277c25.netlify.app/)
+   - [Ver el proyecto](https://grand-buttercream-e673e0.netlify.app)
