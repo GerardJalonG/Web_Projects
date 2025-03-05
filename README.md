@@ -17,3 +17,8 @@ Cada subcarpeta en este repositorio contiene un proyecto web diferente. Los proy
 3. **Portfolio CV**
    - Mi CV hecho de manera "portfolio" usando HTML y CSS, haciendolo responsive para distintos dispositivos.
    - [Ver el proyecto](https://grand-buttercream-e673e0.netlify.app)
+
+4. **Calculadora**
+   - Calculadora simple probando JavaScript.
+   - [Ver el proyecto](https://rococo-unicorn-d72653.netlify.app)
+
